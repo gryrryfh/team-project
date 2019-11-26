@@ -18,6 +18,9 @@
 	
 와 같은 방식으로 선언하게 되는데 위에서 보이듯이 값을 넣을 수 있도록 int의 형태로 data를 선언하고 
 그 밑에 LIST* 의 형태로 next를 선언합니다. 이 next가 다음 노드를 가르키는데 쓰이는 것이죠.
+
+![캡처](https://user-images.githubusercontent.com/50912987/69609146-36324d00-106c-11ea-8510-31ff95d3e9ae.PNG)
+
   
   ![KakaoTalk_20191126_162618807](https://user-images.githubusercontent.com/50912987/69608169-2ca7e580-106a-11ea-9657-b333a4b8f827.jpg)
 
